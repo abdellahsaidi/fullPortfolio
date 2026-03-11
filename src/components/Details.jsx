@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import profileCartoon from "../assets/images/logo.png";
+import profileCartoon from "../assets/images/logo1.png";
 import { data } from "../config"; 
 
 export default function Details() {
