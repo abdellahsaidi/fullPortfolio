@@ -2,8 +2,8 @@
 
 export const data = {
   name: "Saidi Abdellah",
-  experienceYears: 3,
-  educationEndYear: 2025,
+  experienceYears: 4,
+  educationEndYear: 2026,
   
   // On ajoutera tes projets et tes skills ici juste après !
   projects: [],
