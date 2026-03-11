@@ -20,7 +20,7 @@ export default function Details() {
           if (entry.isIntersecting) {
             setAnimated(true);
             animateNumber(setExpCount, 0, targetExperience, 1500);
-            animateNumber(setEduYear, 2000, targetEducationYear, 3000);
+            animateNumber(setEduYear, 2000, targetEducationYear, 2000);
           }
         });
       },
