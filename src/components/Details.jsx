@@ -8,8 +8,8 @@ export default function Details() {
   const [animated, setAnimated] = useState(false);
   const containerRef = useRef(null);
 
-  const targetExperience = data.experienceYears || 3;
-  const targetEducationYear = data.educationEndYear || 2025;
+  const targetExperience = data.experienceYears || 4;
+  const targetEducationYear = data.educationEndYear || 2026;
 
   useEffect(() => {
     if (animated) return;
